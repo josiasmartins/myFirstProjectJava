@@ -13,5 +13,19 @@ public class Main {
         *   is
         *   comment
         */
+
+        int x = 123; // initialization
+        char symbol = '@';
+        String name = "Ibag";
+
+        System.out.print("\n My number is: "+x);
+        System.out.print("\n Hello "+name);
+
+
+        String ibag = "Water";
+        String y = "Kool-Aid";
+
+        System.out.print("x: \n"+x);
+        System.out.print("y: \n"+y);
     }
 }
